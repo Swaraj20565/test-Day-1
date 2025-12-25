@@ -1,1 +1,1 @@
-console.log('hi... this is day 1 of git!');
+console.log('hi... this is day 2 of git!');
