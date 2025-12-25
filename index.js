@@ -1,0 +1,1 @@
+console.log('hi... this is day 1 of git!');
